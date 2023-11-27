@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.478bahis.com	TRUE	/	FALSE	1999999999	bid	e234e02b-07c9-4cac-86b0-9236a8c16c98
+.478bahis.com	TRUE	/	FALSE	1999999999	aff_id	1411
+478bahis.com	TRUE	/	FALSE	1999999999	samesite	none
+478bahis.com	TRUE	/	FALSE	1999999999	bahis_session	X3ZrnPO93kDu0GR99TtuaXmsvkdjsyuwGoSFPp6G
+
